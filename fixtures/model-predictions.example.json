@@ -1,0 +1,5 @@
+[
+  {"id":"example-positive","truth":"suspicious","prediction":"suspicious","provenance":"Authored prediction fixture, no model run"},
+  {"id":"example-negative","truth":"benign","prediction":"benign","provenance":"Authored prediction fixture, no model run"},
+  {"id":"example-false-positive","truth":"benign","prediction":"suspicious","provenance":"Authored prediction fixture, no model run"}
+]

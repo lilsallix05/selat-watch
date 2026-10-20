@@ -1,0 +1,89 @@
+{
+  "threshold": 40,
+  "evaluation_time": "2026-10-19T00:00:00Z",
+  "label_provenance": "Authored synthetic scenario labels; no independent adjudication",
+  "metrics": {
+    "tp": 8,
+    "fp": 1,
+    "tn": 3,
+    "fn": 0,
+    "n": 12,
+    "precision": 0.8889,
+    "recall": 1.0,
+    "accuracy": 0.9167
+  },
+  "results": [
+    {
+      "domain": "maybank-tebus.example",
+      "truth": "suspicious",
+      "prediction": "suspicious",
+      "score": 75
+    },
+    {
+      "domain": "cimb-secure-login.example",
+      "truth": "suspicious",
+      "prediction": "suspicious",
+      "score": 75
+    },
+    {
+      "domain": "poslaju-parcel.example",
+      "truth": "suspicious",
+      "prediction": "suspicious",
+      "score": 75
+    },
+    {
+      "domain": "xn--mybank-verify-w1k.example",
+      "truth": "suspicious",
+      "prediction": "suspicious",
+      "score": 80
+    },
+    {
+      "domain": "mytax-bantuan.example",
+      "truth": "suspicious",
+      "prediction": "suspicious",
+      "score": 75
+    },
+    {
+      "domain": "shopee-reward.example",
+      "truth": "suspicious",
+      "prediction": "suspicious",
+      "score": 50
+    },
+    {
+      "domain": "jtexpress-refund.example",
+      "truth": "suspicious",
+      "prediction": "suspicious",
+      "score": 50
+    },
+    {
+      "domain": "maybank2u.com.my",
+      "truth": "benign",
+      "prediction": "benign",
+      "score": 0
+    },
+    {
+      "domain": "museum.example",
+      "truth": "benign",
+      "prediction": "benign",
+      "score": 0
+    },
+    {
+      "domain": "boost-community.example",
+      "truth": "benign",
+      "prediction": "suspicious",
+      "score": 40
+    },
+    {
+      "domain": "kwsp-semak.example",
+      "truth": "suspicious",
+      "prediction": "suspicious",
+      "score": 65
+    },
+    {
+      "domain": "grap.example",
+      "truth": "benign",
+      "prediction": "benign",
+      "score": 32
+    }
+  ]
+}

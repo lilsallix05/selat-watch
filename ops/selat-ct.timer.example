@@ -1,0 +1,10 @@
+[Unit]
+Description=Start reviewed bounded CT sessions
+
+[Timer]
+OnBootSec=2min
+OnUnitInactiveSec=1min
+Unit=selat-ct.service
+
+[Install]
+WantedBy=timers.target

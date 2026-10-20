@@ -1,0 +1,77 @@
+{
+  "metrics": {
+    "tp": 6,
+    "fp": 1,
+    "tn": 5,
+    "fn": 0,
+    "n": 12,
+    "precision": 0.8571,
+    "recall": 1.0,
+    "accuracy": 0.9167
+  },
+  "predictions": [
+    {
+      "id": "page-13",
+      "truth": "suspicious",
+      "prediction": "suspicious"
+    },
+    {
+      "id": "page-14",
+      "truth": "suspicious",
+      "prediction": "suspicious"
+    },
+    {
+      "id": "page-15",
+      "truth": "suspicious",
+      "prediction": "suspicious"
+    },
+    {
+      "id": "page-16",
+      "truth": "suspicious",
+      "prediction": "suspicious"
+    },
+    {
+      "id": "page-17",
+      "truth": "suspicious",
+      "prediction": "suspicious"
+    },
+    {
+      "id": "page-18",
+      "truth": "suspicious",
+      "prediction": "suspicious"
+    },
+    {
+      "id": "page-19",
+      "truth": "benign",
+      "prediction": "benign"
+    },
+    {
+      "id": "page-20",
+      "truth": "benign",
+      "prediction": "benign"
+    },
+    {
+      "id": "page-21",
+      "truth": "benign",
+      "prediction": "suspicious"
+    },
+    {
+      "id": "page-22",
+      "truth": "benign",
+      "prediction": "benign"
+    },
+    {
+      "id": "page-23",
+      "truth": "benign",
+      "prediction": "benign"
+    },
+    {
+      "id": "page-24",
+      "truth": "benign",
+      "prediction": "benign"
+    }
+  ],
+  "provenance": "Authored synthetic held-out fixtures; no real-world validity estimate",
+  "training_count": 12,
+  "model": "naive-bayes-fixture-v1"
+}

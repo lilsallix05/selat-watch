@@ -1,0 +1,17 @@
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+work/
+instance/
+data/
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite-*
+.env
+.env.*
+*.log
+.DS_Store

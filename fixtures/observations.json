@@ -1,0 +1,182 @@
+[
+  {
+    "domain": "maybank-tebus.example",
+    "registered_at": "2026-10-17",
+    "hosting": {
+      "asn": 64500,
+      "provider": "Synthetic hosting",
+      "flagged": true,
+      "source": "Authored hosting fixture"
+    },
+    "page_text": "Semak bantuan tebus wang sekarang masukkan OTP",
+    "source": "Synthetic CT exercise",
+    "source_ref": "fixture:ct-001",
+    "synthetic": true,
+    "observed_at": "2026-10-19T00:15:00+00:00"
+  },
+  {
+    "domain": "cimb-secure-login.example",
+    "registered_at": "2026-10-13",
+    "hosting": {
+      "asn": 64500,
+      "provider": "Synthetic hosting",
+      "flagged": false,
+      "source": "Authored hosting fixture"
+    },
+    "page_text": "Verify your account password now",
+    "source": "Synthetic CT exercise",
+    "source_ref": "fixture:ct-002",
+    "synthetic": true,
+    "observed_at": "2026-10-19T01:15:00+00:00"
+  },
+  {
+    "domain": "poslaju-parcel.example",
+    "registered_at": "2026-10-16",
+    "hosting": {
+      "asn": 64500,
+      "provider": "Synthetic hosting",
+      "flagged": true,
+      "source": "Authored hosting fixture"
+    },
+    "page_text": "Your parcel is blocked pay fee enter card number",
+    "source": "Synthetic CT exercise",
+    "source_ref": "fixture:ct-003",
+    "synthetic": true,
+    "observed_at": "2026-10-19T02:15:00+00:00"
+  },
+  {
+    "domain": "mаybank-verify.example",
+    "registered_at": "2026-10-18",
+    "hosting": {
+      "asn": 64500,
+      "provider": "Synthetic hosting",
+      "flagged": false,
+      "source": "Authored hosting fixture"
+    },
+    "page_text": "Urgent verify your password",
+    "source": "Synthetic CT exercise",
+    "source_ref": "fixture:ct-004",
+    "synthetic": true,
+    "observed_at": "2026-10-19T03:15:00+00:00"
+  },
+  {
+    "domain": "mytax-bantuan.example",
+    "registered_at": "2026-10-18",
+    "hosting": {
+      "asn": 64500,
+      "provider": "Synthetic hosting",
+      "flagged": true,
+      "source": "Authored hosting fixture"
+    },
+    "page_text": "Semak bantuan kerajaan masukkan kata laluan",
+    "source": "Synthetic CT exercise",
+    "source_ref": "fixture:ct-005",
+    "synthetic": true,
+    "observed_at": "2026-10-19T04:15:00+00:00"
+  },
+  {
+    "domain": "shopee-reward.example",
+    "registered_at": "2026-09-02",
+    "hosting": {
+      "asn": 64500,
+      "provider": "Synthetic hosting",
+      "flagged": false,
+      "source": "Authored hosting fixture"
+    },
+    "page_text": "Claim reward enter security code",
+    "source": "Synthetic CT exercise",
+    "source_ref": "fixture:ct-006",
+    "synthetic": true,
+    "observed_at": "2026-10-19T05:15:00+00:00"
+  },
+  {
+    "domain": "jtexpress-refund.example",
+    "registered_at": null,
+    "hosting": {
+      "asn": 64500,
+      "provider": "Synthetic hosting",
+      "flagged": false,
+      "source": "Authored hosting fixture"
+    },
+    "page_text": "Confirm password to receive refund",
+    "source": "Synthetic CT exercise",
+    "source_ref": "fixture:ct-007",
+    "synthetic": true,
+    "observed_at": "2026-10-19T06:15:00+00:00"
+  },
+  {
+    "domain": "maybank2u.com.my",
+    "registered_at": "2000-01-01",
+    "hosting": {
+      "asn": 64500,
+      "provider": "Synthetic hosting",
+      "flagged": false,
+      "source": "Authored hosting fixture"
+    },
+    "page_text": "Our branch opening hours",
+    "source": "Synthetic CT exercise",
+    "source_ref": "fixture:ct-008",
+    "synthetic": true,
+    "observed_at": "2026-10-19T07:15:00+00:00"
+  },
+  {
+    "domain": "museum.example",
+    "registered_at": "2010-01-01",
+    "hosting": {
+      "asn": 64500,
+      "provider": "Synthetic hosting",
+      "flagged": false,
+      "source": "Authored hosting fixture"
+    },
+    "page_text": "Welcome to the museum",
+    "source": "Synthetic CT exercise",
+    "source_ref": "fixture:ct-009",
+    "synthetic": true,
+    "observed_at": "2026-10-19T08:15:00+00:00"
+  },
+  {
+    "domain": "boost-community.example",
+    "registered_at": "2020-04-01",
+    "hosting": {
+      "asn": 64500,
+      "provider": "Synthetic hosting",
+      "flagged": false,
+      "source": "Authored hosting fixture"
+    },
+    "page_text": "Community event news",
+    "source": "Synthetic CT exercise",
+    "source_ref": "fixture:ct-010",
+    "synthetic": true,
+    "observed_at": "2026-10-19T00:15:00+00:00"
+  },
+  {
+    "domain": "kwsp-semak.example",
+    "registered_at": "2026-10-18",
+    "hosting": {
+      "asn": 64500,
+      "provider": "Synthetic hosting",
+      "flagged": false,
+      "source": "Authored hosting fixture"
+    },
+    "page_text": "Semak sumbangan tebus sekarang",
+    "source": "Synthetic CT exercise",
+    "source_ref": "fixture:ct-011",
+    "synthetic": true,
+    "observed_at": "2026-10-19T01:15:00+00:00"
+  },
+  {
+    "domain": "grap.example",
+    "registered_at": null,
+    "hosting": {
+      "asn": 64500,
+      "provider": "Synthetic hosting",
+      "flagged": false,
+      "source": "Authored hosting fixture"
+    },
+    "page_text": "A personal travel journal",
+    "source": "Synthetic CT exercise",
+    "source_ref": "fixture:ct-012",
+    "synthetic": true,
+    "observed_at": "2026-10-19T02:15:00+00:00"
+  }
+]

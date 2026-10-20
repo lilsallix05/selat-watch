@@ -1,0 +1,258 @@
+[
+  {
+    "id": "maybank",
+    "name": "Maybank",
+    "sector": "bank",
+    "domains": [
+      "maybank2u.com.my",
+      "maybank.com",
+      "maybank.com.my"
+    ],
+    "aliases": [
+      "maybank",
+      "maybank2u"
+    ],
+    "provenance": "Analyst-maintained starting configuration; validate ownership before operational use"
+  },
+  {
+    "id": "cimb",
+    "name": "CIMB",
+    "sector": "bank",
+    "domains": [
+      "cimb.com.my",
+      "cimbclicks.com.my"
+    ],
+    "aliases": [
+      "cimb",
+      "cimbclicks"
+    ],
+    "provenance": "Analyst-maintained starting configuration; validate ownership before operational use"
+  },
+  {
+    "id": "publicbank",
+    "name": "Public Bank",
+    "sector": "bank",
+    "domains": [
+      "pbebank.com"
+    ],
+    "aliases": [
+      "pbebank",
+      "publicbank"
+    ],
+    "provenance": "Analyst-maintained starting configuration; validate ownership before operational use"
+  },
+  {
+    "id": "rhb",
+    "name": "RHB",
+    "sector": "bank",
+    "domains": [
+      "rhbgroup.com"
+    ],
+    "aliases": [
+      "rhbgroup",
+      "rhb"
+    ],
+    "provenance": "Analyst-maintained starting configuration; validate ownership before operational use"
+  },
+  {
+    "id": "hongleong",
+    "name": "Hong Leong Bank",
+    "sector": "bank",
+    "domains": [
+      "hlb.com.my"
+    ],
+    "aliases": [
+      "hongleong",
+      "hlb"
+    ],
+    "provenance": "Analyst-maintained starting configuration; validate ownership before operational use"
+  },
+  {
+    "id": "ambank",
+    "name": "AmBank",
+    "sector": "bank",
+    "domains": [
+      "ambank.com.my"
+    ],
+    "aliases": [
+      "ambank"
+    ],
+    "provenance": "Analyst-maintained starting configuration; validate ownership before operational use"
+  },
+  {
+    "id": "bankislam",
+    "name": "Bank Islam",
+    "sector": "bank",
+    "domains": [
+      "bankislam.com"
+    ],
+    "aliases": [
+      "bankislam"
+    ],
+    "provenance": "Analyst-maintained starting configuration; validate ownership before operational use"
+  },
+  {
+    "id": "bsn",
+    "name": "BSN",
+    "sector": "bank",
+    "domains": [
+      "bsn.com.my"
+    ],
+    "aliases": [
+      "mybsn",
+      "bsn"
+    ],
+    "provenance": "Analyst-maintained starting configuration; validate ownership before operational use"
+  },
+  {
+    "id": "bankrakyat",
+    "name": "Bank Rakyat",
+    "sector": "bank",
+    "domains": [
+      "bankrakyat.com.my"
+    ],
+    "aliases": [
+      "bankrakyat"
+    ],
+    "provenance": "Analyst-maintained starting configuration; validate ownership before operational use"
+  },
+  {
+    "id": "gxbank",
+    "name": "GXBank",
+    "sector": "digital bank",
+    "domains": [
+      "gxbank.my"
+    ],
+    "aliases": [
+      "gxbank"
+    ],
+    "provenance": "Analyst-maintained starting configuration; validate ownership before operational use"
+  },
+  {
+    "id": "tng",
+    "name": "Touch n Go",
+    "sector": "wallet",
+    "domains": [
+      "touchngo.com.my"
+    ],
+    "aliases": [
+      "touchngo",
+      "tngdigital"
+    ],
+    "provenance": "Analyst-maintained starting configuration; validate ownership before operational use"
+  },
+  {
+    "id": "boost",
+    "name": "Boost",
+    "sector": "wallet",
+    "domains": [
+      "myboost.co"
+    ],
+    "aliases": [
+      "myboost",
+      "boost"
+    ],
+    "provenance": "Analyst-maintained starting configuration; validate ownership before operational use"
+  },
+  {
+    "id": "grab",
+    "name": "Grab",
+    "sector": "wallet",
+    "domains": [
+      "grab.com"
+    ],
+    "aliases": [
+      "grabpay",
+      "grab"
+    ],
+    "provenance": "Analyst-maintained starting configuration; validate ownership before operational use"
+  },
+  {
+    "id": "shopee",
+    "name": "Shopee",
+    "sector": "commerce",
+    "domains": [
+      "shopee.com.my"
+    ],
+    "aliases": [
+      "shopee"
+    ],
+    "provenance": "Analyst-maintained starting configuration; validate ownership before operational use"
+  },
+  {
+    "id": "lhdn",
+    "name": "LHDN / MyTax",
+    "sector": "government",
+    "domains": [
+      "hasil.gov.my"
+    ],
+    "aliases": [
+      "mytax",
+      "lhdn",
+      "hasil"
+    ],
+    "provenance": "Analyst-maintained starting configuration; validate ownership before operational use"
+  },
+  {
+    "id": "kwsp",
+    "name": "KWSP",
+    "sector": "government",
+    "domains": [
+      "kwsp.gov.my"
+    ],
+    "aliases": [
+      "kwsp",
+      "epf"
+    ],
+    "provenance": "Analyst-maintained starting configuration; validate ownership before operational use"
+  },
+  {
+    "id": "mygov",
+    "name": "Malaysia Government",
+    "sector": "government",
+    "domains": [
+      "malaysia.gov.my"
+    ],
+    "aliases": [
+      "mygov"
+    ],
+    "provenance": "Analyst-maintained starting configuration; validate ownership before operational use"
+  },
+  {
+    "id": "pos",
+    "name": "Pos Malaysia",
+    "sector": "courier",
+    "domains": [
+      "pos.com.my"
+    ],
+    "aliases": [
+      "poslaju",
+      "posmalaysia"
+    ],
+    "provenance": "Analyst-maintained starting configuration; validate ownership before operational use"
+  },
+  {
+    "id": "jnt",
+    "name": "J&T Express",
+    "sector": "courier",
+    "domains": [
+      "jtexpress.my"
+    ],
+    "aliases": [
+      "jtexpress"
+    ],
+    "provenance": "Analyst-maintained starting configuration; validate ownership before operational use"
+  },
+  {
+    "id": "dhl",
+    "name": "DHL",
+    "sector": "courier",
+    "domains": [
+      "dhl.com"
+    ],
+    "aliases": [
+      "dhl"
+    ],
+    "provenance": "Analyst-maintained starting configuration; validate ownership before operational use"
+  }
+]

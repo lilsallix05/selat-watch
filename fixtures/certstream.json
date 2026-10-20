@@ -1,0 +1,16 @@
+{
+  "message_type": "certificate_update",
+  "data": {
+    "leaf_cert": {
+      "all_domains": [
+        "*.maybank-tebus.example",
+        "cimb-verify.example"
+      ],
+      "not_before": 1792368000
+    },
+    "cert_index": 123456,
+    "source": {
+      "name": "Synthetic CT log"
+    }
+  }
+}

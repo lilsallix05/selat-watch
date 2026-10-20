@@ -1,0 +1,15 @@
+[Unit]
+Description=Bounded passive Selat Watch CT collection
+After=network-online.target
+
+[Service]
+Type=oneshot
+User=selat
+WorkingDirectory=/opt/selat-watch
+EnvironmentFile=/etc/selat-watch.env
+ExecStart=/opt/selat-watch/.venv/bin/python app.py watch-ct --url ${CERTSTREAM_URL} --seconds 300
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/opt/selat-watch/work

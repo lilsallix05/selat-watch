@@ -1,0 +1,170 @@
+[
+  {
+    "id": "page-01",
+    "split": "train",
+    "label": "suspicious",
+    "text": "Urgent verify your password and OTP to claim reward now",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-02",
+    "split": "train",
+    "label": "suspicious",
+    "text": "Semak bantuan kerajaan tebus wang segera masukkan kata laluan OTP",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-03",
+    "split": "train",
+    "label": "suspicious",
+    "text": "Your parcel is blocked pay fee enter card number now",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-04",
+    "split": "train",
+    "label": "suspicious",
+    "text": "Akaun disekat sahkan kata laluan anda segera",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-05",
+    "split": "train",
+    "label": "suspicious",
+    "text": "Login to claim refund and enter your card security code",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-06",
+    "split": "train",
+    "label": "suspicious",
+    "text": "Tebus hadiah segera log masuk nombor kad anda",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-07",
+    "split": "train",
+    "label": "benign",
+    "text": "Welcome to our annual report and company news",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-08",
+    "split": "train",
+    "label": "benign",
+    "text": "Cara menjaga keselamatan akaun jangan kongsi OTP anda",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-09",
+    "split": "train",
+    "label": "benign",
+    "text": "Our branch opening hours and contact directory",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-10",
+    "split": "train",
+    "label": "benign",
+    "text": "Track your parcel using the official mobile application",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-11",
+    "split": "train",
+    "label": "benign",
+    "text": "Laporan tahunan syarikat dan maklumat perkhidmatan pelanggan",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-12",
+    "split": "train",
+    "label": "benign",
+    "text": "About the museum opening hours and ticket information",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-13",
+    "split": "test",
+    "label": "suspicious",
+    "text": "Verify password now to claim your reward",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-14",
+    "split": "test",
+    "label": "suspicious",
+    "text": "Semak tebus bantuan sekarang masukkan OTP",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-15",
+    "split": "test",
+    "label": "suspicious",
+    "text": "Pay parcel fee now enter card number",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-16",
+    "split": "test",
+    "label": "suspicious",
+    "text": "Akaun disekat segera sahkan kata laluan",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-17",
+    "split": "test",
+    "label": "suspicious",
+    "text": "Confirm security code to receive refund",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-18",
+    "split": "test",
+    "label": "suspicious",
+    "text": "Log masuk tebus hadiah nombor kad",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-19",
+    "split": "test",
+    "label": "benign",
+    "text": "Company annual report and branch directory",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-20",
+    "split": "test",
+    "label": "benign",
+    "text": "Hubungi perkhidmatan pelanggan untuk maklumat lanjut",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-21",
+    "split": "test",
+    "label": "benign",
+    "text": "Please do not enter your password or OTP into unknown sites",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-22",
+    "split": "test",
+    "label": "benign",
+    "text": "Track parcel in the official application",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-23",
+    "split": "test",
+    "label": "benign",
+    "text": "Museum hours and visitor information",
+    "provenance": "Authored synthetic language fixture"
+  },
+  {
+    "id": "page-24",
+    "split": "test",
+    "label": "benign",
+    "text": "Semak laporan tahunan syarikat kami",
+    "provenance": "Authored synthetic language fixture"
+  }
+]
