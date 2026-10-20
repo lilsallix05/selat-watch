@@ -6,6 +6,10 @@ A local investigation desk for domains that impersonate Malaysian banks, wallets
 
 The idea in one line: **a high score means "look at this first", not "this is phishing".** The score ranks the queue. The verdict is a separate, human decision with a written reason.
 
+## The attack
+
+Brand impersonation starts with a domain that looks right at a glance. Attackers swap a Latin letter for a look-alike from another alphabet (a Cyrillic `а` for `a`, stored as punycode beginning `xn--`), hang a lure word such as `verify` or `tebus` off the brand name, hide the brand inside a longer host such as `maybank.com.my.attacker.example`, and register it days before the campaign. Selat Watch takes each of those tricks apart and shows which ones a domain uses.
+
 ## What it does
 
 - Takes recorded domain observations (JSON, CertStream or crt.sh exports) and normalises each domain, including Unicode lookalikes. A *homoglyph* is a character from another alphabet that looks like a Latin one, such as Cyrillic `а` in place of `a`.
